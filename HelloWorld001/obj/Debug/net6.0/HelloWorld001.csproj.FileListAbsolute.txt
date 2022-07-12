@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\bin\Debug\net6.0\HelloWorld001.exe
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\bin\Debug\net6.0\HelloWorld001.deps.json
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\bin\Debug\net6.0\HelloWorld001.runtimeconfig.json
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\bin\Debug\net6.0\HelloWorld001.dll
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\bin\Debug\net6.0\HelloWorld001.pdb
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.AssemblyInfo.cs
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.dll
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\refint\HelloWorld001.dll
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.pdb
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\HelloWorld001.genruntimeconfig.cache
+C:\Users\Acer\Desktop\IT\Lesson2\HelloWorld\HelloWorld001\obj\Debug\net6.0\ref\HelloWorld001.dll
